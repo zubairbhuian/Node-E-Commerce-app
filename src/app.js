@@ -5,6 +5,7 @@ const xssClean = require('xss-clean');
 const rateLimit = require('express-rate-limit')
 const morgam = require("morgan");
 const UserRouter = require("./routers/userRoute");
+const seedRouter = require("./routers/seedRoute");
 
 const app = express();
 
@@ -21,6 +22,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended : true}));
 
 app.use('/api/users',UserRouter);
+app.use('/api/seed',seedRouter);
 
 
 // client Error handeling
