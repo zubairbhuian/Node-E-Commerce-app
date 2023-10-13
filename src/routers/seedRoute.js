@@ -5,6 +5,7 @@ const seedRouter =express.Router();
 
 
 seedRouter.get('/users',seedController);
+seedRouter.get('/user',seedController);
 
 
 
