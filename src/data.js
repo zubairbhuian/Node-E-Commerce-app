@@ -1,28 +1,104 @@
-const data ={
-    users:[
-       {
-        name:'Zubair',
-        email:'zubair@gmail.com',
-        password:'123456',
-        phone:'01732665086',
-        address:'Bhuapur',
-       },
-       {
-        name:'Sumon',
-        email:'Sumon@gmail.com',
-        password:'123456',
-        phone:'01700000000',
-        address:'Bhuapur',
-       },
-       {
-        name:'Shaju',
-        email:'Shaju@gmail.com',
-        password:'123456',
-        phone:'01333333333',
-        address:'Bhuapur',
-       }
-    ]
-}
+const data = {
+  users: [
+    {
+      name: "Zubair",
+      email: "zubair@gmail.com",
+      password: "123456",
+      phone: "01732665086",
+      address: "Bhuapur",
+    },
+    {
+      name: "Sumon",
+      email: "Sumon@gmail.com",
+      password: "123456",
+      phone: "01700000000",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju1@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju2@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju3@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju4@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju5@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju6@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju67@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju7@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju8@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju88@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+    {
+      name: "Shaju",
+      email: "Shaju9@gmail.com",
+      password: "123456",
+      phone: "01333333333",
+      address: "Bhuapur",
+    },
+  ],
+};
 
-
-module.exports =data;
+module.exports = data;
